@@ -12,4 +12,6 @@ git push -u origin main
 
 git remote add origin https://github.com/parvej35/Python-Tutorial-OOP-Class-Read-Write-File.git
 git branch -M main
+
+git commit -m "Initial Commit"
 git push -u origin main

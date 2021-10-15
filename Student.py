@@ -1,5 +1,4 @@
 class Student:
-
     total_student = 0
 
     id = 0
@@ -9,14 +8,9 @@ class Student:
     country = ""
 
     def __init__(self, first_name, last_name, age, country):
-
-        # print("1 total_student : " + str(self.total_student))
         Student.total_student += 1
 
-        # print("2 total_student : " + str(self.total_student))
-
-        Student.id = Student.total_student
-
+        self.id = Student.total_student
         self.first_name = first_name
         self.last_name = last_name
         self.age = age
