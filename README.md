@@ -7,7 +7,7 @@ Also, we will see how to view and delete a particular data.
 ## Cloning the Project from Repo
 
 ```sh
-git clone https://github.com/parvej35/Python-Tutorial-OOP-File-Handling.git
+git clone https://github.com/parvej35/Python-Tutorial-File-Handling-Using-OOP.git
 ```
 [Git](https://git-scm.com/downloads) should be installed on your system.
 Alternatively, you can download the zip-file or download the individual notebooks.
