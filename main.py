@@ -63,7 +63,7 @@ def show_all():
 def delete_data():
     show_all()
     print("")
-    student_id = input("Enter Student Id to be deleted: ")
+    student_id = input("Enter Student Id to Delete: ")
     if student_id != "":
 
         # Read files data
@@ -139,7 +139,7 @@ def save_data():
 
         show_all()
 
-        restart = input("\n\nDo want to insert another data?(y/n): ")
+        restart = input("Do want to insert another data?(y/n): ")
         if restart.upper() == "Y":
             save_data()
         else:
