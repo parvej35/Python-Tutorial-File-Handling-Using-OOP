@@ -1,8 +1,8 @@
 # Python: Read Write in File Using OOP Concept
 This is a basic Python learning project.
 
-In this project we will learn how to collect data from user input and save this into a file.<br>
-Also, we will see how to modify and delete a particular data.
+In this project we will learn how to collect data from user input and save this into a file using python OOP concept.<br>
+Also, we will see how to view and delete a particular data.
 
 ## Cloning the Project from Repo
 
